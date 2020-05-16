@@ -5,7 +5,7 @@
 
 # Description 
 
-### A quick generator for README's for future projects and activities. Easy to use inputs makes creating a README a one-step process! 
+### A quick generator for README's for future projects and activities. Easy to use inputs makes crreating a README a one-step process! 
 
 
 # Table of Contents 
@@ -45,12 +45,12 @@
 
 # Questions 
 
-### Question 1 for example? Also question 2 would like to be answered? This is only a demonstration for how this homework is run. 
+### Question 1 for example? Also question 2 would like to be answered? This is only a demonstration? 
  
 
 
 # Github Username 
 
-### T-nyG 
+###  T-nyG 
 
 
