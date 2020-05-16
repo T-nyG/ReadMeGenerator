@@ -1,11 +1,11 @@
 
 # Your Project Name
-### asd 
+### README Generator 
 
 
 # Description 
 
-### asd 
+### A quick generator for README's for future projects and activities. Easy to use inputs makes creating a README a one-step process! 
 
 
 # Table of Contents 
@@ -21,39 +21,36 @@
 
 # Installation 
 
-### asd 
+### Dependencies include fs and inquirer and axios (for the Github profile info). 
 
 
 # Usage 
 
-### asd 
+### Run the dialog and input all your info you would like to appear on the README. 
  
 
 # License 
- ![license](https://img.shields.io/badge/license-asd-brightgreen) 
+ ![license](https://img.shields.io/badge/license-MIT-brightgreen) 
  
 
 # Contributing 
 
-### asd 
+### Any and all developers may contribute with credit given. 
  
 
 # Tests 
 
-### asd 
+### No tests available at this moment. Coming soon. 
  
 
 # Questions 
 
-### asd 
+### Question 1 for example? Also question 2 would like to be answered? This is only a demonstration for how this homework is run. 
  
 
 
 # Github Username 
 
 ### T-nyG 
-
-
-## undefined 
 
 

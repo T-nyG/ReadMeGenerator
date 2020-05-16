@@ -1,14 +1,15 @@
-const axios = require("axios");
+// const axios = require("axios");
 
 function generateMarkdown(data) {
   
-  let imgURL = "";
+  // let imgURL = "";
 
-  const queryUrl = `https://api.github.com/users/${data.username}`;
-  axios.get(queryUrl).then(function(response) {
-    imgURL = response.data.avatar_url;
-    return imgURL;
-  });
+  // const queryUrl = `https://api.github.com/users/${data.username}`;
+  // axios.get(queryUrl).then(function(response) {
+  //   console.log(response)
+  //   imgURL = response.data.avatar_url;
+  //   return imgURL;
+  // });
 
   return `
 # Your Project Name
@@ -47,8 +48,6 @@ function generateMarkdown(data) {
 
 # Github Username \n
 ### ${data.username} \n
-
-## ${imgURL} \n
 
 `;
 }

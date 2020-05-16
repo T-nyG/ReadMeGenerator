@@ -16,7 +16,7 @@ inquirer
     },
     {
       type: "input",
-      message: "Enter a description of your project",
+      message: "Enter a description of your project.",
       name: "description"
     },
     {
@@ -26,7 +26,7 @@ inquirer
     },
     {
       type: "input",
-      message: "Enter a description of how to use the app",
+      message: "Enter a description of how to use the app.",
       name: "usage"
     },
     {
@@ -36,7 +36,7 @@ inquirer
     },
     {
       type: "input",
-      message: "Who is contributing to the project?",
+      message: "Enter the contributor code of conduct for your application.",
       name: "contributing"
     },
     {
@@ -46,7 +46,7 @@ inquirer
     },
     {
       type: "input",
-      message: "Enter questions you would like to be answered",
+      message: "Enter questions you would like to be answered.",
       name: "questions"
     }
   ])
