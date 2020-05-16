@@ -1,6 +1,5 @@
 const fs = require("fs");
 const inquirer = require("inquirer");
-// const util = require("util");
 const generateMarkdown = require("./utils/generateMarkdown")
 
 inquirer
@@ -32,12 +31,12 @@ inquirer
     },
     {
       type: "input",
-      message: "What license are you using?",
+      message: "Which license are you using?",
       name: "license"
     },
     {
       type: "input",
-      message: "Who is contributing?",
+      message: "Who is contributing to the project?",
       name: "contributing"
     },
     {
@@ -47,7 +46,7 @@ inquirer
     },
     {
       type: "input",
-      message: "Questions to answer",
+      message: "Enter questions you would like to be answered",
       name: "questions"
     }
   ])
